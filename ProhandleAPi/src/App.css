@@ -1,0 +1,17 @@
+/* #root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  background-color: gray;
+} */
+
+body,html{
+  padding: 0;
+  /* height: 100vh; */
+  width: 100%;
+  background-color: beige;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
